@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Business Support for Bright Young Entrepreneurs]]></title>
         <description><![CDATA[Business Support for Bright Young Entrepreneurs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goodstory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 20:49:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 20:50:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goodstory/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Free business mentoring and investment for creative/dyslexic entrepreneurs aged 18-30]]></title>
             <description><![CDATA[<h1>Free business mentoring and investment for creative/dyslexic entrepreneurs aged 18-30</h1>]]></description>
-            <link>undefinedfree-business-mentoring-and-investment-for-creativedyslexic/index.html</link>
+            <link>https://thegrid.ai/goodstory/free-business-mentoring-and-investment-for-creativedyslexic/index.html</link>
             <guid isPermaLink="false">54a27e1a-5229-4091-9ee7-c97461f5370d</guid>
-            <pubDate>Mon, 22 Feb 2016 20:48:40 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 20:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
